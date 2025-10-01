@@ -239,7 +239,7 @@ behaviour({
 - Implement query result caching
 
 ---
-## 8. adtional information
+## 8.additional features
 
 ### 8.1 Development Tools
 **Priority: Low**
